@@ -4,6 +4,7 @@
   color: aqua !important;
   background: aqua !important;
   border-color: aqua !important;
+	caret-color: aqua !important;
 }
 
 *::selection {
@@ -11,5 +12,5 @@
 }
 
 img::selection {
-  background: aqua !important;
+	background: aqua !important;
 }
