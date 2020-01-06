@@ -1,0 +1,15 @@
+/* add aqua */
+
+* {
+  color: aqua !important;
+  background-color: aqua !important;
+  border-color: aqua !important;
+}
+
+*::selection {
+  background: aqua !important;
+}
+
+img::selection {
+  background: aqua !important;
+}
