@@ -2,7 +2,7 @@
 
 ## Usage
 
-Add the following to you <head>
+Add the following code to you `<head>` tag:
 
 ```html
 <link rel="stylesheet" media="all" href="/aqua.css/css/aqua.css">
