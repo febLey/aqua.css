@@ -1,2 +1,2 @@
 /* add aqua */
-*{color:aqua!important;background:aqua!important;border-color:aqua!important}*::selection{background:aqua!important}img::selection{background:aqua!important}
+*{color:aqua!important;background:aqua!important;border-color:aqua!important;caret-color:aqua!important}*::selection{background:aqua!important}img::selection{background:aqua!important}
